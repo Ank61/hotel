@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Ank61/hotel.git/static/css/main.f4c0dc30.css",
+    "main.js": "/Ank61/hotel.git/static/js/main.4885d26b.js",
+    "static/media/tajimage.jpeg": "/Ank61/hotel.git/static/media/tajimage.aa96a8e0fe9aff05f91f.jpeg",
+    "static/media/tajlogo.png": "/Ank61/hotel.git/static/media/tajlogo.1e0c81c45ab0f9f37f6f.png",
+    "static/media/instagram.png": "/Ank61/hotel.git/static/media/instagram.86b4c9e5892f38b82d50.png",
+    "static/media/5.png": "/Ank61/hotel.git/static/media/5.aec403fe95243dc688ed.png",
+    "index.html": "/Ank61/hotel.git/index.html",
+    "main.f4c0dc30.css.map": "/Ank61/hotel.git/static/css/main.f4c0dc30.css.map",
+    "main.4885d26b.js.map": "/Ank61/hotel.git/static/js/main.4885d26b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4c0dc30.css",
+    "static/js/main.4885d26b.js"
+  ]
+}
